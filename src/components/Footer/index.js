@@ -1,7 +1,7 @@
 import React from 'react'
 
 import "./index.css"
-import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaSoundcloud, FaMixcloud } from 'react-icons/fa'
+import { FaHome, FaMailBulk, FaLinkedin, FaSoundcloud, FaMixcloud } from 'react-icons/fa'
 
 const Footer = () => {
     return (
