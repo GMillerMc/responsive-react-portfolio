@@ -27,6 +27,10 @@
     align-items: center;
 }
 
+.heading :hover {
+    color: cyan;
+}
+
 .hero-img h1 {
     font-size: 2.4rem;
 }

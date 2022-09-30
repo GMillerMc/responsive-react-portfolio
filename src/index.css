@@ -25,8 +25,8 @@ ul {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: cyan;
-  color: black;
+  background: #fff;
+  color: #022c43;
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
@@ -38,7 +38,7 @@ ul {
 }
 
 .btn:hover{
-  background: grey;
+  background: cyan;
   color: #fff;
   transition: 0.3s;
 }

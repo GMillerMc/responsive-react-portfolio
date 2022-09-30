@@ -15,19 +15,8 @@ const Footer = () => {
                             marginRight: "2rem" }} 
                         />
                         <div>
-                            <p>some text here</p>
-                            <p>some text here</p>
+                            <p>London, UK</p>
                         </div>
-                    </div>
-                    <div className="phone">
-                        <h4> 
-                            <FaPhone  
-                                size={20} 
-                                style={{ color: "#fff", 
-                                marginRight: "2rem" }} 
-                            />
-                            phone number
-                        </h4>
                     </div>
                     <div className="email">
                         <h4>
@@ -42,8 +31,6 @@ const Footer = () => {
                 </div>
                 
                 <div className="right">
-                    <h4>About the company</h4>
-                    <p>more info</p>
                     <div className="social">
                         <a target="_blank" 
                         rel="noreferrer"
